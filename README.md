@@ -6,16 +6,3 @@ Created a Basic Banking System Website using HTML, CSS, JavaSript and PHP along 
 -> contains webpages such as home page, contact and about page, tranaaction , customer and sending money page!
 
 
-<H2> OVERVIEW: <H2>
-<h3> INDEX PAGE </H3>
-<img src="https://user-images.githubusercontent.com/102166679/193525007-fb253e39-a070-4a7e-a6df-0bec060aa1ee.png">
-<img src="https://user-images.githubusercontent.com/102166679/193525127-14f1b3c2-1597-4503-8c21-6bc473a98b73.png">
-
-<h3> CUSTOMER PAGE </H3>
-<img src="https://user-images.githubusercontent.com/102166679/193525193-523ff63e-f299-4660-9cd2-422da87860c6.png">
-
-<h3> TRANSACTION PAGE </H3>
-<img src="https://user-images.githubusercontent.com/102166679/193525322-4e225027-fc8a-4632-9415-6899a1f54591.png">
-
-<h3> SEND MONEY </H3>
-<img src="https://user-images.githubusercontent.com/102166679/193525383-902c7c81-3870-4cf6-8a86-5fd335d4b8de.png">

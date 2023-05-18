@@ -19,9 +19,3 @@ Created a Basic Banking System Website using HTML, CSS, JavaSript and PHP along 
 
 <h3> SEND MONEY </H3>
 <img src="https://user-images.githubusercontent.com/102166679/193525383-902c7c81-3870-4cf6-8a86-5fd335d4b8de.png">
-
-<h3> CONTACT US PAGE </H3>
-<img src="https://user-images.githubusercontent.com/102166679/193525486-8e7d0999-06d7-4648-8e7f-253935dc7815.png">
-
-<h3> ABOUT US PAGE </H3>
-<img src="https://user-images.githubusercontent.com/102166679/193525552-6bada259-ec41-47f3-9903-ad7367d84fae.png">
